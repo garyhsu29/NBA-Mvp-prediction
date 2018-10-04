@@ -1,4 +1,4 @@
-#NBA All-Season MVP and Finals series MVP prediction.
+# NBA All-Season MVP and Finals series MVP prediction.
 1. Open Get_Team_MVP_PLAYER_Data.ipynb to collect all the data in past 37 years (2017-18  -> 1980-81)
 
 2. Open Get_final_series.ipynb to collect all the data in NBA 2018 Finals
